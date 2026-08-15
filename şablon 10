@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>Şablon 10</title>
+</head>
+<body>
+<h1 id="baslik1" style="color:red" title="Açıklama metni"> Makale başlığı </h1>
+</body>
+</html>
